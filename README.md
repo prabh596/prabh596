@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Prabhjot Kaur 👋
 
-<!--
-**prabh596/prabh596** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Web Design and Usability student at NAIT in Edmonton, Canada.
 
-Here are some ideas to get you started:
+## About Me
+- Studying HTML, CSS, and WordPress
+- Learning Responsive Web Design
+- Interested in UI/UX and modern website layouts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Building responsive websites
+- Improving design and usability skills
+- Learning Full Site Editing in WordPress
+
+## Location
+Edmonton, Alberta, Canada
